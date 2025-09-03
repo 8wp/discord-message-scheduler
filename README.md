@@ -7,6 +7,14 @@ flooding the server, and all configuration — including target channel, message
 through the built-in menu interface. Essentially, it provides a lightweight, end-to-end solution for scheduled 
 messaging without requiring external hosting or services.</p>
 
+<h2>Install dependencies</h2>
+
+Run the following command to install all required packages:
+
+```sh
+pip install requests
+```
+
 <h2>How to use</h2>
 
 <ol>
