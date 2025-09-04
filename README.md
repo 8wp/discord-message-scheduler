@@ -1,5 +1,4 @@
-Created by 8wp
----
+<p><sub>Created by 8wp</sub></p>
 
 <h2>How it works</h2>
 
