@@ -1,3 +1,6 @@
+Created by 8wp
+---
+
 <h2>How it works</h2>
 
   <p>This tool is a locally hosted Python script that interfaces directly with the Discord gateway to automate message sending. 
